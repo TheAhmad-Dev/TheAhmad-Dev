@@ -207,7 +207,7 @@ A mobile messaging application project focused on communication and modern mobil
 
 </div>
 
----
+
 
 08.  CURRENT LEARNING PATH
 
