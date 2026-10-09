@@ -4,48 +4,6 @@
 
 </div>
 
-<table>
-<tr>
-<td width="30%" valign="top">
-
-<div align="center">
-
-<img src="https://github.com/TheAhmad-Dev.png" width="150" alt="Ahmad's profile picture"/>
-
-### Muhammad Ahmad
-
-Software Engineering Student
-
-Lahore, Pakistan 🇵🇰
-
-<a href="https://github.com/TheAhmad-Dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 Software Engineering student
-- 📱 React Native development
-- 🎨 UI development and styling
-- ⚙️ Backend development
-- 💡 Learning by building real projects
-
----
-
-### 🏅 Highlights
-
-- Mobile App Development
-- Full-Stack Projects
-- Continuous Learning
-
-</td>
-
-<td width="70%" valign="top">
-
 ## 🌐 About Me
 
 I'm Muhammad Ahmad, a Software Engineering student passionate about mobile application development, frontend design, and backend technologies.
@@ -117,10 +75,6 @@ const ahmad = {
 </a>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
