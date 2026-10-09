@@ -2,7 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:071820,65:003B46,100:00F5FF&height=250&section=header&text=MUHAMMAD&fontSize=50&fontColor=00F5FF&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20MOBILE%20%7C%20FULL%20STACK&descSize=13&descAlignY=57&descColor=FFFFFF" width="100%" alt="Muhammad neon banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=700&size=50&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=90&lines=AHMAD" alt="Ahmad neon brush-style text"/>
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=90&lines=AHMAD" alt="Animated Ahmad brush-style text"/>
+
+<br/>
+
+<a href="https://github.com/TheAhmad-Dev">
+<img src="https://img.shields.io/badge/GITHUB-THEAHMAD--DEV-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile"/>
+</a>
+<img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PAKISTAN-101820?style=for-the-badge&logo=googlemaps&logoColor=00F5FF" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=TheAhmad-Dev&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+**BUILD WITH PURPOSE. LEARN WITH CURIOSITY. CREATE WITH PASSION.**
 
 </div>
 
@@ -10,15 +22,15 @@
 
 ## `01` // WHO AM I?
 
-Hey! I'm **Muhammad Ahmad**, a Software Engineering student from Lahore, Pakistan, with a passion for building practical software and exploring modern technologies.
+Hey! I'm **Muhammad Ahmad**, a Software Engineering student from Lahore, Pakistan, passionate about building practical software and exploring modern technologies.
 
-I enjoy working on mobile applications, designing user-friendly interfaces, connecting frontend applications to backend services, and turning ideas into functional projects.
+I enjoy developing mobile applications, designing user-friendly interfaces, connecting frontend applications to backend services, and turning ideas into functional projects.
 
-My goal is to grow into a developer who can understand the complete software development process — from designing an interface to building APIs, managing databases, and delivering a reliable application.
+My goal is to grow into a developer who understands the complete software development process — from designing an interface to building APIs, managing databases, and delivering reliable applications.
 
 - 📱 Focused on mobile app development with React Native and Expo.
 - 🎨 Interested in modern interfaces, UI styling, and user experience.
-- ⚙️ Learning backend architecture, APIs, and real-time communication.
+- ⚙️ Exploring backend architecture, APIs, and real-time communication.
 - 🗄️ Working with databases and application data.
 - 🧠 Strengthening programming fundamentals and problem-solving.
 - 🚀 Learning through experimentation and real-world projects.
@@ -60,11 +72,11 @@ const ahmad = {
 
 ### FRONTEND & MOBILE DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=react,expo,html,css,js,ts,tailwind&theme=dark" alt="Frontend and mobile development technologies"/>
+<img src="https://skillicons.dev/icons?i=react,expo,html,css,js,ts,tailwind&theme=dark" alt="Frontend and mobile technologies"/>
 
 ### BACKEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend development technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies"/>
 
 ### DATABASES & CLOUD SERVICES
 
@@ -129,7 +141,7 @@ Test, debug, and refine the application.
 
 </div>
 
-I believe good software is more than just code. It should solve a real problem, offer a smooth user experience, and remain understandable enough to maintain and improve.
+I believe good software is more than just code. It should solve real problems, provide a smooth user experience, and remain understandable enough to maintain and improve.
 
 ---
 
@@ -138,7 +150,7 @@ I believe good software is more than just code. It should solve a real problem, 
 <div align="center">
 
 <a href="https://github.com/TheAhmad-Dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAhmad-Dev&repo=NexChat&theme=transparent&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=00F5FF" alt="NexChat project card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAhmad-Dev&repo=NexChat&theme=transparent&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=00F5FF" alt="NexChat repository card"/>
 </a>
 
 </div>
@@ -148,20 +160,18 @@ I believe good software is more than just code. It should solve a real problem, 
 A messaging application project focused on mobile communication and modern app functionality.
 
 - React Native and Expo frontend.
-- Backend development using Node.js and Express.
+- Node.js and Express backend.
 - TypeScript-based application logic.
 - MongoDB database integration.
 - Real-time messaging functionality using Socket.IO.
 
-*The project card above will display only if the repository exists publicly under the specified name. Change `NexChat` in the URL if your repository uses another name.*
+### 🚀 Future Project Goals
 
-### 🚀 What I Aim to Build Next
-
-- More polished mobile applications.
-- Better real-time messaging and notification experiences.
-- Reusable UI components and cleaner code structures.
-- Full-stack applications with reliable backend services.
-- Projects that solve practical everyday problems.
+- Build polished mobile applications.
+- Improve real-time messaging and notification experiences.
+- Create reusable UI components and cleaner code structures.
+- Develop full-stack applications with reliable backend services.
+- Solve practical everyday problems through software.
 
 ---
 
@@ -173,7 +183,7 @@ A messaging application project focused on mobile communication and modern app f
 
 </div>
 
-Every contribution represents an opportunity to learn, fix something, improve a project, or move closer to a better solution.
+Every contribution is an opportunity to learn, solve a problem, improve a project, or move closer to a better solution.
 
 ---
 
@@ -202,6 +212,7 @@ Every contribution represents an opportunity to learn, fix something, improve a 
 - Navigation and app structure
 - Responsive layouts
 - Media and file handling
+- Application performance
 
 </td>
 <td width="50%" valign="top">
@@ -213,6 +224,7 @@ Every contribution represents an opportunity to learn, fix something, improve a 
 - Authentication and authorization
 - Database operations
 - Real-time communication
+- Error handling
 
 </td>
 </tr>
@@ -226,6 +238,7 @@ Every contribution represents an opportunity to learn, fix something, improve a 
 - C++ programming fundamentals
 - Java programming
 - Data structures and algorithms
+- Problem-solving techniques
 
 </td>
 <td width="50%" valign="top">
@@ -237,6 +250,7 @@ Every contribution represents an opportunity to learn, fix something, improve a 
 - Debugging and testing
 - Clean project organization
 - User-friendly experiences
+- Maintainable code
 
 </td>
 </tr>
@@ -250,7 +264,7 @@ Every contribution represents an opportunity to learn, fix something, improve a 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Write+code+that+solves+problems.;Learn+something+new+every+day.;Build+projects%2C+not+just+tutorials.;Progress+over+perfection." alt="Developer philosophy animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Write+code+that+solves+problems.;Learn+something+new+every+day.;Build+projects%2C+not+just+tutorials.;Progress+over+perfection." alt="Animated developer philosophy"/>
 
 </div>
 
@@ -263,15 +277,15 @@ I don't believe every project needs to be perfect on the first attempt. The impo
 <div align="center">
 
 <a href="https://github.com/TheAhmad-Dev">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Code-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ahmed-ishfaq-289800363/">
-<img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-101820?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-101820?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/itz__ahmad.1/">
-<img src="https://img.shields.io/badge/INSTAGRAM-Follow%20Along-101820?style=for-the-badge&logo=instagram&logoColor=00F5FF" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW%20ALONG-101820?style=for-the-badge&logo=instagram&logoColor=00F5FF" alt="Instagram"/>
 </a>
 
 <br/><br/>
