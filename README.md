@@ -21,9 +21,9 @@
 
 </div>
 
----
 
-## `01` // ABOUT ME
+
+ 01.  ABOUT ME
 
 <div align="center">
 
@@ -43,7 +43,7 @@ I'm **Muhammad Ahmad**, a Software Engineering student passionate about building
 *Building with purpose. Improving with every project.*
 
 </div>
-## `02`  DEVELOPER PROFILE
+02.  DEVELOPER PROFILE
 
 <div align="center">
 
@@ -75,8 +75,7 @@ const ahmad = {
 };
 
 
-
-## `03`  TECHNOLOGY STACK
+03.  TECHNOLOGY STACK
 
 <div align="center">
 
@@ -104,7 +103,7 @@ const ahmad = {
 
 ---
 
-## `04`  DEVELOPMENT WORKFLOW
+04.  DEVELOPMENT WORKFLOW
 
 <div align="center">
 
@@ -155,7 +154,7 @@ I believe good software should solve real problems, deliver a smooth user experi
 
 ---
 
-## `05`  FEATURED PROJECT
+05.  FEATURED PROJECT
 
 <div align="center">
 
@@ -185,8 +184,7 @@ A mobile messaging application project focused on communication and modern mobil
 - Improve application reliability and error handling.
 
 ---
-
-## `06`  GITHUB ACTIVITY
+06. GITHUB ACTIVITY
 
 <div align="center">
 
@@ -201,8 +199,7 @@ A mobile messaging application project focused on communication and modern mobil
 </div>
 
 ---
-
-## `07`  GITHUB ACHIEVEMENTS
+07. GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -212,7 +209,7 @@ A mobile messaging application project focused on communication and modern mobil
 
 ---
 
-## `08`  CURRENT LEARNING PATH
+08.  CURRENT LEARNING PATH
 
 <table>
 <tr>
@@ -271,7 +268,7 @@ A mobile messaging application project focused on communication and modern mobil
 
 ---
 
-## `09` // DEVELOPMENT PHILOSOPHY
+09. DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
@@ -283,7 +280,7 @@ I believe growth comes from consistency, curiosity, and learning from mistakes. 
 
 ---
 
-## `10`  CONNECT WITH ME
+10.  CONNECT WITH ME
 
 <div align="center">
 
