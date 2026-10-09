@@ -12,19 +12,54 @@
 
 </div>
 
----
+🌐 About Me
 
-## `01` // ABOUT ME
+I'm Muhammad Ahmad, a Software Engineering student passionate about mobile application development, frontend design, and backend technologies.
 
-I'm Muhammad Ahmad, a Software Engineering student passionate about mobile application development, modern UI design, and backend technologies.
+I enjoy building practical applications, exploring new technologies, and improving my programming skills through real-world projects.
 
-- 📱 React Native and Expo development
-- ⚙️ Node.js, Express.js, and API development
-- 🎨 Modern UI design and styling
-- 🚀 Building practical software projects
+const ahmad = {
+  role: "Software Engineering Student",
+  location: "Lahore, Pakistan",
 
----
+  frontend: [
+    "React Native",
+    "Expo",
+    "CSS",
+    "Tailwind CSS"
+  ],
 
+  backend: [
+    "Node.js",
+    "Express.js",
+    "TypeScript",
+    "Socket.IO"
+  ],
+
+  databases: [
+    "MongoDB",
+    "Firebase"
+  ],
+
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "C++",
+    "Java"
+  ],
+
+  interests: [
+    "Mobile Apps",
+    "Software Development",
+    "UI Design"
+  ]
+};
+
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80" width="90%" alt="Developer workspace"/>
+
+</div>
 ## `02` // DEVELOPER TERMINAL
 
 <div align="center">
