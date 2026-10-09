@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -315,4 +315,3 @@ I believe growth comes from consistency, curiosity, and learning from mistakes. 
 <sub>Designed with curiosity. Built one project at a time.</sub>
 
 </div>
-```
