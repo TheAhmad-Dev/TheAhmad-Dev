@@ -1,90 +1,109 @@
- <div align="center">
+```html
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,20:240046,45:5A189A,70:C026D3,100:090014&height=260&section=header&text=MUHAMMAD%20AHMAD&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=SOFTWARE%20ENGINEERING%20%7C%20MOBILE%20%7C%20FULL%20STACK&descSize=13&descAlignY=57&descColor=F0ABFC" width="100%" alt="Animated purple neon Muhammad Ahmad banner"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:3B0764,55:7E22CE,80:C026D3,100:090014&height=230&section=header&text=MUHAMMAD%20AHMAD&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20MOBILE%20%7C%20FULL%20STACK&descSize=13&descAlignY=57&descColor=E9D5FF" width="100%" alt="Muhammad Ahmad profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=45&duration=2000&pause=600&color=E879F9&center=true&vCenter=true&width=650&height=85&lines=MUHAMMAD+AHMAD;SOFTWARE+ENGINEERING+STUDENT;REACT+NATIVE+DEVELOPER;MOBILE+APP+DEVELOPER;TURNING+IDEAS+INTO+REALITY" alt="Animated developer name and introduction"/>
+<!-- PROFESSIONAL TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&height=65&lines=SOFTWARE+ENGINEERING+STUDENT;MOBILE+APPLICATION+DEVELOPER;REACT+NATIVE+%7C+EXPO+%7C+NODE.JS;BUILDING+PRACTICAL+SOFTWARE" alt="Professional developer introduction"/>
 
 <br/>
 
-<a href="https://github.com/TheAhmad-Dev"><img src="https://img.shields.io/badge/GITHUB-THEAHMAD--DEV-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PAKISTAN-3B0764?style=for-the-badge&logo=googlemaps&logoColor=F0ABFC" alt="Location"/>
-<img src="https://komarev.com/ghpvc/?username=TheAhmad-Dev&style=for-the-badge&color=C026D3&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/TheAhmad-Dev">
+<img src="https://img.shields.io/badge/GITHUB-THEAHMAD--DEV-7E22CE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PAKISTAN-3B0764?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=TheAhmad-Dev&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
-**✦ BUILD WITH PURPOSE · LEARN WITH CURIOSITY · CREATE WITH PASSION ✦**
+**ENGINEER WITH PURPOSE · DEVELOP WITH PASSION · IMPROVE EVERY DAY**
 
 </div>
 
+---
 
+## `01` // ABOUT ME
 
-## `01`  WHO AM I?
+Hello! I'm **Muhammad Ahmad**, a Software Engineering student from Lahore, Pakistan, passionate about developing useful applications and exploring modern technologies.
 
-Hey! I'm **Muhammad Ahmad**, a Software Engineering student from Lahore, Pakistan, passionate about building practical software and exploring modern technologies.
+I enjoy building mobile applications, designing user-friendly interfaces, connecting frontend applications to backend services, and transforming ideas into functional software.
 
-I enjoy developing mobile applications, designing user-friendly interfaces, connecting frontend applications to backend services, and turning ideas into functional projects.
+My goal is to become a skilled software engineer who understands the complete development lifecycle, from UI design and API development to database management and application deployment.
 
-My goal is to grow into a developer who understands the complete software development process — from designing an interface to building APIs, managing databases, and delivering reliable applications.
-
-- 📱 Focused on mobile app development with React Native and Expo.
-- 🎨 Interested in modern interfaces, UI styling, and user experience.
-- ⚙️ Exploring backend architecture, APIs, and real-time communication.
-- 🗄️ Working with databases and application data.
-- 🧠 Strengthening programming fundamentals and problem-solving.
-- 🚀 Learning through experimentation and real-world projects.
+- 📱 Developing mobile applications with React Native and Expo.
+- 🎨 Exploring modern UI design and user experience.
+- ⚙️ Learning backend development, APIs, and real-time communication.
+- 🗄️ Working with MongoDB, Firebase, and SQL databases.
+- 🧠 Improving programming fundamentals and problem-solving skills.
+- 🚀 Building practical projects to develop real-world experience.
 
 ---
 
-## `02` // DEVELOPER TERMINAL
+## `02` // DEVELOPER PROFILE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3B0764&height=38&section=header&text=ahmad%40developer%3A~%24%20whoami&fontSize=13&fontColor=F0ABFC" width="360" alt="Purple developer terminal header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1028&height=40&section=header&text=AHMAD%20%2F%2F%20DEVELOPER%20PROFILE&fontSize=15&fontColor=C084FC" width="80%" alt="Developer profile heading"/>
 
 </div>
 
 ```javascript
 const ahmad = {
-  identity: "Software Engineer in Progress",
-  currentFocus: "React Native",
-  frontend: "UI & Mobile Apps",
-  backend: "APIs & Databases",
-  mindset: "Always Learning",
-  nextGoal: "Build Better Software"
+    name: "Muhammad Ahmad",
+    role: "Software Engineering Student",
+    location: "Lahore, Pakistan",
+
+    interests: [
+        "Mobile Development",
+        "Full Stack Development",
+        "UI/UX Design",
+        "Problem Solving"
+    ],
+
+    technologies: {
+        frontend: ["React Native", "Expo", "JavaScript", "TypeScript"],
+        backend: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "Firebase", "SQL"],
+        languages: ["C++", "Java", "JavaScript", "TypeScript"]
+    },
+
+    currentFocus: "Building Better Applications",
+    mindset: "Learn, Build, Improve"
 };
 ```
 
 ---
 
-## `03` // TECHNOLOGY ARSENAL
+## `03` // TECHNOLOGY STACK
 
 <div align="center">
 
-### ✦ FRONTEND & MOBILE DEVELOPMENT
+### MOBILE & FRONTEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=react,expo,html,css,js,ts,tailwind&theme=dark" alt="Frontend and mobile technologies"/>
+<img src="https://skillicons.dev/icons?i=react,expo,html,css,js,ts,tailwind&theme=dark" alt="Mobile and frontend technologies"/>
 
-### ✦ BACKEND DEVELOPMENT
+### BACKEND DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies"/>
 
-### ✦ DATABASES & CLOUD SERVICES
+### DATABASES & CLOUD
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" alt="Database and cloud technologies"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" alt="Database technologies"/>
 
-### ✦ PROGRAMMING LANGUAGES
+### PROGRAMMING LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=cpp,java,js,ts&theme=dark" alt="Programming languages"/>
 
-### ✦ TOOLS & WORKFLOW
+### DEVELOPMENT TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
-## `04` // MY DEVELOPMENT WORKFLOW
+## `04` // DEVELOPMENT WORKFLOW
 
 <div align="center">
 
@@ -92,30 +111,38 @@ const ahmad = {
 <tr>
 <td align="center" width="25%">
 
-**01 · PLAN**
+### 01
 
-Understand the problem and define the goal.
+**PLAN**
 
-</td>
-<td align="center" width="25%">
-
-**02 · DESIGN**
-
-Create a clean and practical interface.
+Understand the problem and define requirements.
 
 </td>
 <td align="center" width="25%">
 
-**03 · DEVELOP**
+### 02
 
-Build features and connect the backend.
+**DESIGN**
+
+Create a clear and user-friendly interface.
 
 </td>
 <td align="center" width="25%">
 
-**04 · IMPROVE**
+### 03
 
-Test, debug, and refine the application.
+**DEVELOP**
+
+Build features and integrate backend services.
+
+</td>
+<td align="center" width="25%">
+
+### 04
+
+**IMPROVE**
+
+Test, debug, and refine the solution.
 
 </td>
 </tr>
@@ -123,49 +150,54 @@ Test, debug, and refine the application.
 
 </div>
 
-I believe good software is more than just code. It should solve real problems, provide a smooth user experience, and remain understandable enough to maintain and improve.
+I believe good software should solve real problems, deliver a smooth user experience, and remain maintainable as it grows.
 
 ---
 
-## `05` // FEATURED PROJECTS
+## `05` // FEATURED PROJECT
 
 <div align="center">
 
-<a href="https://github.com/TheAhmad-Dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAhmad-Dev&repo=NexChat&theme=midnight-purple&hide_border=true&title_color=E879F9&text_color=F3E8FF&icon_color=C026D3" alt="NexChat project card"/>
+<a href="https://github.com/TheAhmad-Dev/NexChat">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAhmad-Dev&repo=NexChat&theme=midnight-purple&hide_border=true&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" width="80%" alt="NexChat repository card"/>
 </a>
 
 </div>
 
 ### 📱 NexChat — Messaging Application
 
-A messaging application project focused on mobile communication and modern app functionality.
+A mobile messaging application project focused on communication and modern mobile app functionality.
 
-- React Native and Expo frontend.
-- Backend development using Node.js and Express.
-- TypeScript-based application logic.
-- MongoDB database integration.
-- Real-time messaging functionality using Socket.IO.
+**Technology stack**
 
-### 🚀 What I Aim to Build Next
+- React Native and Expo for the mobile frontend.
+- Node.js and Express.js for backend services.
+- TypeScript for application logic.
+- MongoDB for data storage.
+- Socket.IO for real-time communication.
 
-- More polished mobile applications.
-- Better real-time messaging and notification experiences.
-- Reusable UI components and cleaner code structures.
-- Full-stack applications with reliable backend services.
-- Projects that solve practical everyday problems.
+**Development goals**
+
+- Improve messaging and notification functionality.
+- Support image, video, and document sharing.
+- Build a consistent and responsive user interface.
+- Improve application reliability and error handling.
 
 ---
 
-## `06` // GITHUB CONTRIBUTION MATRIX
+## `06` // GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAhmad-Dev&bg_color=0D0618&color=F0ABFC&line=C026D3&point=FFFFFF&area=true&area_color=6B21A8&hide_border=true&custom_title=AHMAD%20%2F%2F%20DEVELOPMENT%20ACTIVITY" width="100%" alt="Purple and magenta contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAhmad-Dev&bg_color=0D0618&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=6B21A8&hide_border=true&custom_title=AHMAD%20%2F%2F%20DEVELOPMENT%20ACTIVITY" width="100%" alt="GitHub activity graph"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheAhmad-Dev&show_icons=true&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&rank_icon=github" width="48%" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAhmad-Dev&layout=compact&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF" width="42%" alt="Most used programming languages"/>
 
 </div>
-
-Every contribution represents an opportunity to learn, solve a problem, improve a project, or move closer to a better solution.
 
 ---
 
@@ -173,7 +205,7 @@ Every contribution represents an opportunity to learn, solve a problem, improve 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TheAhmad-Dev&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%" alt="GitHub achievements and trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TheAhmad-Dev&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%" alt="GitHub achievements"/>
 
 </div>
 
@@ -181,19 +213,17 @@ Every contribution represents an opportunity to learn, solve a problem, improve 
 
 ## `08` // CURRENT LEARNING PATH
 
-<div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Mobile Development
+### 📱 Mobile Engineering
 
 - React Native components
-- Expo workflows
-- Navigation and app structure
+- Expo development workflows
+- Navigation and application structure
 - Responsive layouts
-- Media and file handling
+- Media and document handling
 - Application performance
 
 </td>
@@ -213,11 +243,11 @@ Every contribution represents an opportunity to learn, solve a problem, improve 
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ Data & Programming
+### 🗄️ Data & Algorithms
 
 - MongoDB and Firebase
 - SQL and relational databases
-- C++ programming fundamentals
+- C++ programming
 - Java programming
 - Data structures and algorithms
 - Problem-solving techniques
@@ -225,32 +255,30 @@ Every contribution represents an opportunity to learn, solve a problem, improve 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 UI & Software Quality
+### 🎨 Software Quality
 
-- Consistent visual design
+- Consistent UI design
 - Reusable components
 - Debugging and testing
 - Clean project organization
-- User-friendly experiences
 - Maintainable code
+- User-focused development
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## `09` // MY DEVELOPER PHILOSOPHY
+## `09` // DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=700&color=E879F9&center=true&vCenter=true&width=700&height=100&lines=Write+code+that+solves+problems.;Learn+something+new+every+day.;Build+projects%2C+not+just+tutorials.;Progress+over+perfection.;Create.+Improve.+Repeat." alt="Animated developer philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=3200&pause=1000&color=C084FC&center=true&vCenter=true&width=800&height=100&lines=WRITE+CLEAN+AND+USEFUL+CODE;LEARN+SOMETHING+NEW+EVERY+DAY;BUILD+PROJECTS+THAT+SOLVE+PROBLEMS;PROGRESS+OVER+PERFECTION" alt="Animated development philosophy"/>
 
 </div>
 
-I don't believe every project needs to be perfect on the first attempt. The important part is to keep learning, understand mistakes, improve the solution, and continue building.
+I believe growth comes from consistency, curiosity, and learning from mistakes. Every project is an opportunity to improve my skills, explore better solutions, and become a stronger developer.
 
 ---
 
@@ -258,11 +286,17 @@ I don't believe every project needs to be perfect on the first attempt. The impo
 
 <div align="center">
 
-<a href="https://github.com/TheAhmad-Dev"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/TheAhmad-Dev">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-7E22CE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<a href="https://www.linkedin.com/in/ahmed-ishfaq-289800363/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-3B0764?style=for-the-badge&logo=linkedin&logoColor=F0ABFC" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ahmed-ishfaq-289800363/">
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-3B0764?style=for-the-badge&logo=linkedin&logoColor=E9D5FF" alt="LinkedIn"/>
+</a>
 
-<a href="https://www.instagram.com/itz__ahmad.1/"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW%20ALONG-86198F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/itz__ahmad.1/">
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW%20ALONG-86198F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 <br/><br/>
 
@@ -274,10 +308,11 @@ I don't believe every project needs to be perfect on the first attempt. The impo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:3B0764,55:86198F,80:C026D3,100:090014&height=160&section=footer&animation=twinkling" width="100%" alt="Animated purple gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:3B0764,55:86198F,80:C026D3,100:090014&height=150&section=footer&animation=fadeIn" width="100%" alt="Purple gradient footer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2200&pause=700&color=E879F9&center=true&vCenter=true&width=500&height=55&lines=BUILD+%2F%2F+LEARN+%2F%2F+CREATE;THE+JOURNEY+CONTINUES...;SEE+YOU+IN+THE+NEXT+PROJECT" alt="Animated closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=55&lines=BUILD+WITH+PURPOSE;LEARN+WITH+CURIOSITY;CREATE+WITH+PASSION" alt="Animated closing statement"/>
 
-<sub>✦ Designed with curiosity. Built one project at a time. ✦</sub>
+<sub>Designed with curiosity. Built one project at a time.</sub>
 
 </div>
+```
