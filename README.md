@@ -1,20 +1,8 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:071820,65:003B46,100:00F5FF&height=250&section=header&text=MUHAMMAD%20AHMAD&fontSize=50&fontColor=00F5FF&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20MOBILE%20%7C%20FULL%20STACK&descSize=13&descAlignY=57&descColor=FFFFFF" width="100%" alt="Muhammad Ahmad futuristic banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:071820,65:003B46,100:00F5FF&height=250&section=header&text=MUHAMMAD&fontSize=50&fontColor=00F5FF&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20MOBILE%20%7C%20FULL%20STACK&descSize=13&descAlignY=57&descColor=FFFFFF" width="100%" alt="Muhammad neon banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=MUHAMMAD+AHMAD;SOFTWARE+ENGINEERING+STUDENT;REACT+NATIVE+DEVELOPER;MOBILE+APP+DEVELOPER;TURNING+IDEAS+INTO+REALITY" alt="Animated developer introduction"/>
-
-<br/>
-
-<a href="https://github.com/TheAhmad-Dev">
-<img src="https://img.shields.io/badge/GITHUB-THEAHMAD--DEV-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PAKISTAN-101820?style=for-the-badge&logo=googlemaps&logoColor=00F5FF" alt="Location"/>
-<img src="https://komarev.com/ghpvc/?username=TheAhmad-Dev&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-**BUILD WITH PURPOSE. LEARN WITH CURIOSITY. CREATE WITH PASSION.**
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=700&size=50&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=90&lines=AHMAD" alt="Ahmad neon brush-style text"/>
 
 </div>
 
