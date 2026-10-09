@@ -23,7 +23,7 @@
 
 ---
 
-## `01` // ABOUT ME
+## `01`  ABOUT ME
 
 Hello! I'm **Muhammad Ahmad**, a Software Engineering student from Lahore, Pakistan, passionate about developing useful applications and exploring modern technologies.
 
@@ -40,7 +40,7 @@ My goal is to become a skilled software engineer who understands the complete de
 
 ---
 
-## `02` // DEVELOPER PROFILE
+## `02`  DEVELOPER PROFILE
 
 <div align="center">
 
@@ -48,7 +48,6 @@ My goal is to become a skilled software engineer who understands the complete de
 
 </div>
 
-```javascript
 const ahmad = {
     name: "Muhammad Ahmad",
     role: "Software Engineering Student",
@@ -71,11 +70,10 @@ const ahmad = {
     currentFocus: "Building Better Applications",
     mindset: "Learn, Build, Improve"
 };
-```
 
----
 
-## `03` // TECHNOLOGY STACK
+
+## `03`  TECHNOLOGY STACK
 
 <div align="center">
 
@@ -103,7 +101,7 @@ const ahmad = {
 
 ---
 
-## `04` // DEVELOPMENT WORKFLOW
+## `04`  DEVELOPMENT WORKFLOW
 
 <div align="center">
 
@@ -154,7 +152,7 @@ I believe good software should solve real problems, deliver a smooth user experi
 
 ---
 
-## `05` // FEATURED PROJECT
+## `05`  FEATURED PROJECT
 
 <div align="center">
 
@@ -185,7 +183,7 @@ A mobile messaging application project focused on communication and modern mobil
 
 ---
 
-## `06` // GITHUB ACTIVITY
+## `06`  GITHUB ACTIVITY
 
 <div align="center">
 
@@ -201,7 +199,7 @@ A mobile messaging application project focused on communication and modern mobil
 
 ---
 
-## `07` // GITHUB ACHIEVEMENTS
+## `07`  GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -211,7 +209,7 @@ A mobile messaging application project focused on communication and modern mobil
 
 ---
 
-## `08` // CURRENT LEARNING PATH
+## `08`  CURRENT LEARNING PATH
 
 <table>
 <tr>
@@ -282,7 +280,7 @@ I believe growth comes from consistency, curiosity, and learning from mistakes. 
 
 ---
 
-## `10` // CONNECT WITH ME
+## `10`  CONNECT WITH ME
 
 <div align="center">
 
