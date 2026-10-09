@@ -1,130 +1,138 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101019&height=180&section=header&text=MUHAMMAD%20AHMAD&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20STUDENT&descSize=14&descAlignY=65&descColor=C9A227" width="100%" alt="Muhammad Ahmad banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101820,100:00F5FF&height=220&section=header&text=MUHAMMAD%20AHMAD&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20MOBILE%20%7C%20FULL%20STACK&descSize=12&descAlignY=58&descColor=00F5FF&animation=fadeIn" width="100%" alt="Muhammad Ahmad neon banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=React+Native+Developer;Software+Engineering+Student;Building+Ideas+Into+Reality;Code.+Create.+Improve." alt="Animated developer introduction"/>
+
+<br/>
+
+<a href="https://github.com/TheAhmad-Dev">
+<img src="https://img.shields.io/badge/GITHUB-THEAHMAD--DEV-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PAKISTAN-101820?style=for-the-badge&logo=googlemaps&logoColor=00F5FF" alt="Location"/>
 
 </div>
 
-## 🌐 About Me
+---
 
-I'm Muhammad Ahmad, a Software Engineering student passionate about mobile application development, frontend design, and backend technologies.
+## `01` // ABOUT ME
 
-I enjoy building practical applications, exploring new technologies, and improving my programming skills through real-world projects.
+I'm Muhammad Ahmad, a Software Engineering student who enjoys building mobile applications, designing modern user interfaces, and developing backend systems.
 
-```javascript
-const ahmad = {
-  role: "Software Engineering Student",
-  location: "Lahore, Pakistan",
+- 📱 Building mobile applications with React Native and Expo.
+- ⚙️ Developing APIs and backend services.
+- 🎨 Exploring modern UI design and responsive interfaces.
+- 🧠 Improving my problem-solving and software engineering skills.
+- 🚀 Learning by building real-world projects.
 
-  frontend: [
-    "React Native",
-    "Expo",
-    "CSS",
-    "Tailwind CSS"
-  ],
+---
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "TypeScript",
-    "Socket.IO"
-  ],
-
-  databases: [
-    "MongoDB",
-    "Firebase"
-  ],
-
-  languages: [
-    "JavaScript",
-    "TypeScript",
-    "C++",
-    "Java"
-  ],
-
-  interests: [
-    "Mobile Apps",
-    "Software Development",
-    "UI Design"
-  ]
-};
-```
+## `02` // DEVELOPER TERMINAL
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80" width="90%" alt="Developer workspace"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=35&section=header&text=ahmad%40developer%20%7E%20terminal&fontSize=13&fontColor=00F5FF" width="320" alt="Terminal title"/>
+
+<table>
+<tr>
+<td>
+
+```javascript
+const ahmad = {
+  focus: "Building",
+  stack: "React Native",
+  mindset: "Keep Learning",
+  mode: "Always Creating"
+};
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
-> "The more you build, the more you learn. Every project is a new opportunity to improve."
+---
 
-## 🤝 Connect With Me
+## `03` // TECH STACK
+
+<div align="center">
+
+**FRONTEND & MOBILE**
+
+<img src="https://skillicons.dev/icons?i=react,expo,html,css,js,ts,tailwind&theme=dark" alt="Frontend and mobile stack"/>
+
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend and database stack"/>
+
+**LANGUAGES & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,git,github,vscode,postman,figma,vercel&theme=dark" alt="Programming languages and tools"/>
+
+</div>
+
+---
+
+## `04` // GITHUB STATISTICS
+
+<div align="center">
+
+<img width="85%" src="https://github-readme-stats.vercel.app/api?username=TheAhmad-Dev&show_icons=true&hide_border=true&bg_color=050A0E&title_color=00F5FF&icon_color=00F5FF&text_color=E6EDF3&include_all_commits=true" alt="GitHub statistics"/>
+
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAhmad-Dev&layout=compact&hide_border=true&bg_color=050A0E&title_color=00F5FF&text_color=E6EDF3" alt="Top programming languages"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAhmad-Dev&hide_border=true&background=050A0E&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `05` // CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAhmad-Dev&bg_color=050A0E&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&area_color=003B46&hide_border=true&custom_title=AHMAD%20%2F%2F%20CONTRIBUTION%20MATRIX" width="100%" alt="Neon GitHub contribution graph"/>
+
+</div>
+
+---
+
+## `06` // ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheAhmad-Dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## `07` // CONNECT
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-ishfaq-289800363/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/TheAhmad-Dev">
-<img src="https://img.shields.io/badge/X%20(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/itz__ahmad.1/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-101820?style=for-the-badge&logo=instagram&logoColor=00F5FF" alt="Instagram"/>
 </a>
 <a href="https://github.com/TheAhmad-Dev">
-<img src="https://img.shields.io/badge/GITHUB-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,expo,js,ts,html,css,tailwind,nodejs,express,mongodb,firebase,java,cpp,git,github,vscode,postman,figma,vercel&theme=dark" alt="Technology stack"/>
+<img src="https://komarev.com/ghpvc/?username=TheAhmad-Dev&style=flat-square&color=00F5FF&label=VISITORS" alt="Profile visitors"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REACT%20NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/NODE.JS-181717?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F" alt="Node.js"/>
-<img src="https://img.shields.io/badge/MONGODB-181717?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/FIREBASE-181717?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:101820,100:050505&height=110&section=footer" width="100%" alt="Neon footer"/>
 
-</div>
+**`BUILD` // `LEARN` // `CREATE`**
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-stats.vercel.app/api?username=TheAhmad-Dev&show_icons=true&hide_border=true&bg_color=0D0D14&title_color=C9A227&icon_color=C9A227&text_color=E6E6E6&include_all_commits=true" alt="GitHub analytics"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAhmad-Dev&layout=compact&hide_border=true&bg_color=0D0D14&title_color=C9A227&text_color=E6E6E6" alt="Top languages"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAhmad-Dev&hide_border=true&background=0D0D14&ring=C9A227&fire=FFB000&currStreakLabel=C9A227&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="Contribution streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheAhmad-Dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%" alt="GitHub trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-**BUILD • LEARN • CREATE**
-
-<img src="https://komarev.com/ghpvc/?username=TheAhmad-Dev&style=flat-square&color=C9A227&label=PROFILE+VIEWS" alt="Profile views"/>
+<sub>One project at a time. One level higher every day.</sub>
 
 </div>
