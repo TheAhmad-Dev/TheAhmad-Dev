@@ -23,23 +23,26 @@
 
 ---
 
-## `01`  ABOUT ME
+## `01` // ABOUT ME
 
-Hello! I'm **Muhammad Ahmad**, a Software Engineering student from Lahore, Pakistan, passionate about developing useful applications and exploring modern technologies.
+<div align="center">
 
-I enjoy building mobile applications, designing user-friendly interfaces, connecting frontend applications to backend services, and transforming ideas into functional software.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=550&height=35&lines=Software+Engineering+Student;Mobile+%26+Full-Stack+Developer;Turning+Ideas+Into+Solutions" alt="Professional animated introduction"/>
 
-My goal is to become a skilled software engineer who understands the complete development lifecycle, from UI design and API development to database management and application deployment.
+</div>
 
-- 📱 Developing mobile applications with React Native and Expo.
-- 🎨 Exploring modern UI design and user experience.
-- ⚙️ Learning backend development, APIs, and real-time communication.
-- 🗄️ Working with MongoDB, Firebase, and SQL databases.
-- 🧠 Improving programming fundamentals and problem-solving skills.
-- 🚀 Building practical projects to develop real-world experience.
+I'm **Muhammad Ahmad**, a Software Engineering student passionate about building modern applications and solving real-world problems through technology.
 
----
+- 📱 **Mobile:** React Native & Expo
+- ⚙️ **Backend:** Node.js, Express & TypeScript
+- 🗄️ **Database:** MongoDB & Firebase
+- 🎯 **Focus:** Clean UI, scalable applications & continuous learning
 
+<div align="center">
+
+*Building with purpose. Improving with every project.*
+
+</div>
 ## `02`  DEVELOPER PROFILE
 
 <div align="center">
